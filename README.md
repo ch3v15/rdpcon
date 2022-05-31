@@ -2,3 +2,5 @@
 # rdpcon
 A tool for testing the protection of RDP connections
 
+### Building
+To compile the tool correctly, you need to download both the source code and the ready-made testing tool from the release tag
